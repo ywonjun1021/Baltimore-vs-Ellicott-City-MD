@@ -15,7 +15,7 @@ The average household income in Baltimore is around $32,626.09.
 ## Ellicott City
 ![alt_text](https://github.com/ywonjun1021/Baltimore-vs-Ellicott-City-MD/blob/master/Household%20Income%20Ellicott%20City.png)
 
-With the collected data, I created a PivotTable and PivotChart to see average household income in Baltimore.
+With the collected data, I created a PivotTable and PivotChart to see average household income in Ellicott City.
 
 The average household income in Ellicott City is around $47,792.92.
 
