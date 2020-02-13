@@ -2,7 +2,7 @@
 
 ## Household Income
 
-Using "Opportunity Atlas," I was able to get the data for Baltimore and Ellicott City's average household income.
+Using [Opportunity Atlas](https://www.opportunityatlas.org), I was able to get the data for Baltimore and Ellicott City's average household income.
 Specifically, I used 25th percentile parent income to compare the income of the poor people in these two cities.
 
 ### Baltimore
@@ -18,6 +18,14 @@ The average household income in Baltimore is around $32,626.09.
 With the collected data, I created a PivotTable and PivotChart to see average household income in Ellicott City.
 
 The average household income in Ellicott City is around $47,792.92.
+
+
+## Fraction Married vs Household Income 
+
+Again,[Opportunity Atlas](https://www.opportunityatlas.org), provided Baltimore and Ellicott City's fraction married data. Then, I was able to compare the relationship of fraction married and household income between two cities. 
+
+### Baltimore
+
 
 
 
