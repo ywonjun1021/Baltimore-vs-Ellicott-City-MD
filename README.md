@@ -1,4 +1,4 @@
-# Baltimore-vs-Ellicott-City-MD
+# Comparing Baltimore vs Ellicott-City-MD Household Income and Fraction Married 
 
 ## Household Income
 
