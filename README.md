@@ -35,6 +35,8 @@ The graph shows that the richer you are, the more likely to for you to be marrie
 
 The graph shows a similar relationship as we saw in Baltimore's scatter plot. The more income the household has, the more likely they were married. Again, vice versa. 
 
+Also, comparing the two cities, we can see that there are more marriages in Ellicott City compared to Baltimore. 
+
 
 
 
