@@ -22,9 +22,16 @@ The average household income in Ellicott City is around $47,792.92.
 
 ## Fraction Married vs Household Income 
 
-Again,[Opportunity Atlas](https://www.opportunityatlas.org), provided Baltimore and Ellicott City's fraction married data. Then, I was able to compare the relationship of fraction married and household income between two cities. 
+Again,[Opportunity Atlas](https://www.opportunityatlas.org), provided Baltimore and Ellicott City's fraction married data. 
 
 ### Baltimore
+![alt text](https://github.com/ywonjun1021/Baltimore-vs-Ellicott-City  MD/blob/master/Fraction%20Married%20vs%20Household%20Income%20(Bal).png)
+
+With the collected data, I created a scatter plot to see the relationship between Fraction Married and Household Income in Baltimore.
+The graph shows that the richer you are, the more likely to for you to be married. On the other hand, the lower the household income is, the lower the chance that he or she is married. 
+
+### Ellicott City 
+
 
 
 
