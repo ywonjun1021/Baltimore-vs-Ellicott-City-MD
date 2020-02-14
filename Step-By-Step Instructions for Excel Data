@@ -1,0 +1,47 @@
+Step-by-step Instructions for Excel Data
+
+<Baltimore Household Income>
+After choosing the city Ellicott City (where I lived for 7 years), I went to Outlas to get the data for both Baltimore and Ellicott City
+I downloaded household income data for 25th percentile and all genders.
+I opened the file as Excel.
+In "sort & filter," I clicked filter so I could only get Baltimore's household income data.
+I created a PivotTable and put "Average household income" into the "values" in PivotTables Fields.
+I set the Average household income to "average" in the chart and put "tract" into the Rows.
+After getting the average of the household income, I created another column of "Average of average income in Baltimore"
+It is because to show the average value (linear line) in the graph
+After creating the PivotTable, I created a PivotChart - a histogram and a linear line that shows the average value
+I used a bar graph and set the gap width to 0, so it can look like a histogram.
+Put all the axis title and named it accordingly 
+
+<Ellicott City Household Income>
+For Ellicott City household income, I took the same steps
+Filtered so I can get only Ellicott City data.
+Then, created a PivotTable and dragged each values into the PivotTables field accordingly.
+Set the Average household income to "average" and get the average household income
+Create another column so I can later show the average value on the graph
+Created a bar graph and put the put the graph width to 0, so it can look like a histogram 
+Created a horizontal line that easily shows the average household income
+I put all the axis title and changed the color for Ellicott City graph so it can look different than the Baltimore one
+
+<Comparing Baltimore's Household Income and Fraction Married>
+Get the data for Fraction Married from Outlas (we don't need to get household data becasue we already have it)
+Again, using "sort & filter" to sort out only Baltimore fraction married data
+Used "=VLookup" to match up track number of household income and fraction married
+Created a column of "household income" next to "fraction married" so I can match the data by VLookup
+After the data is matched, create a scatter plot to see the relationship between Fraction married and Household income.
+Household income is on the Y-axis of the data and Fraction married is on the X-axis of the scatter plot
+Put all the axis title to clarify.
+According to the scatter plot, the line is upward slopping, meaning that the more money the household has, the higher fraction married was in the city. 
+
+
+<Comparing Ellicott City's Household Income and Fraction Married>
+Get the data for Fraction Married from Outlas (we don't need to get household data becasue we already have it)
+Again, using "sort & filter" to sort out only Ellicott City fraction married data
+Used "=VLookup" to match up track number of household income and fraction married
+Created a column of "household income" next to "fraction married" so I can match the data by VLookup
+After the data is matched, create a scatter plot to see the relationship between Fraction married and Household income.
+Household income is on the Y-axis of the data and Fraction married is on the X-axis of the scatter plot
+Put all the axis title to clarify.
+Similar to Baltimore scatter plot, the line is upward slopping, meaning that the more money the household has, the higher fraction married was in the city. 
+
+
